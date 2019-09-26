@@ -1,6 +1,9 @@
 = Awesome NetBox
-:autor: WOLfgang Schricker
-:email: time@wols.org
+:autor:           WOLfgang Schricker
+:email:           time@wols.org
+ifdef::env-github[]
+:attachmentsdir:  ../attachments
+endif::[]
 
 // TODO
 
