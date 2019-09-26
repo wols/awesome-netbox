@@ -1,0 +1,7 @@
+= Power : Awesome NetBox
+:autor: WOLfgang Schricker
+:email: time@wols.org
+
+// TODO
+
+// awesome-netbox/modules/Power/index.adoc
