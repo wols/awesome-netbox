@@ -1,0 +1,11 @@
+= Awesome NetBox
+:autor: WOLfgang Schricker
+:email: time@wols.org
+
+// TODO
+
+== License
+
+link:{attachmentsdir}/LICENSE[GNU Free Documentation License 1.3]
+
+// awesome-netbox/modules/ROOT/index.adoc
