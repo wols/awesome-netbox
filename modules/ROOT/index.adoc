@@ -2,7 +2,7 @@
 :autor:           WOLfgang Schricker
 :email:           time@wols.org
 ifdef::env-github[]
-:attachmentsdir:  ../attachments
+:attachmentsdir:  ../ROOT/attachments
 endif::[]
 
 // TODO
