@@ -5,16 +5,12 @@
 
 
 
-// ...
+link:docs/[Awesome NetBox : GitHub Pages]
 
 
-
-== NetBox
-
-include::modules/ROOT/partials/netbox.adoc[leveloffset=0]
 
 == License
 
-link:modules/ROOT/attachments/LICENSE[GNU Free Documentation License 1.3]
+link:modules/ROOT/attachments/LICENSE.txt[GNU Free Documentation License 1.3]
 
 // awesome-netbox/README.adoc

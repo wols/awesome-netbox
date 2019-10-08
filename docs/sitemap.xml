@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:5000/awesome-netbox/Env/index.html</loc>
+<lastmod>2019-10-08T23:12:15.507Z</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/awesome-netbox/index.html</loc>
+<lastmod>2019-10-08T23:12:15.507Z</lastmod>
+</url>
+<url>
+<loc>http://localhost:5000/awesome-netbox/Power/index.html</loc>
+<lastmod>2019-10-08T23:12:15.507Z</lastmod>
+</url>
+</urlset>

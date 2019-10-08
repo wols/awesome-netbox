@@ -1,0 +1,20 @@
+site:
+  title: 'Awesome NetBox'
+  # the 404 page and sitemap files only get generated when the url property is set
+  # local - if serve installed and running
+  url: http://localhost:5000
+  start_page: awesome-netbox::index.adoc
+content:
+  sources:
+  - url: .
+    branches: master
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  # supplemental_files: supplemental-ui
+output:
+  destinations:
+  - provider: fs
+    path: docs
+    clean: true

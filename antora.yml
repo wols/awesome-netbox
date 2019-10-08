@@ -1,2 +1,5 @@
 name: awesome-netbox
+title: Awesome NetBox
 version: master
+nav:
+- modules/ROOT/nav.adoc
