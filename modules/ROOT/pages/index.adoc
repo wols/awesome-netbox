@@ -1,15 +1,7 @@
-= Awesome NetBox
+= README
 :autor:          WOLfgang Schricker
 :email:          time@wols.org
 // NO empty line before!
-
-
-
-// ...
-
-
-
-== NetBox
 
 include::partial$netbox.adoc[leveloffset=0]
 

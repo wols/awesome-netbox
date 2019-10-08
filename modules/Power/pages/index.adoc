@@ -1,4 +1,4 @@
-= Power : Awesome NetBox
+= Power
 :autor: WOLfgang Schricker
 :email: time@wols.org
 

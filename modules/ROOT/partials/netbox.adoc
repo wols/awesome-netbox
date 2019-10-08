@@ -4,7 +4,7 @@
 ____
 NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 
-link:https://github.com/netbox-community/netbox[]
+link:https://github.com/netbox-community/netbox[, window=_blank]
 ____
 
 

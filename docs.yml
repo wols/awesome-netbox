@@ -3,7 +3,7 @@ site:
   # the 404 page and sitemap files only get generated when the url property is set
   # local - if serve installed and running
   url: https://wols.github.io/awesome-netbox
-  start_page: awesome-netbox::index.adoc
+  start_page: docs::index.adoc
 content:
   sources:
   - url: .
