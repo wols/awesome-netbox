@@ -11,21 +11,10 @@
 
 == NetBox
 
-[quote]
-____
-NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-
-link:https://github.com/netbox-community/netbox[]
-____
-
-
-
-// ...
-
-
+include::modules/ROOT/partials/netbox.adoc[leveloffset=0]
 
 == License
 
-link:modules/ROOT/attachments/LICENSE[GNU Free Documentation License 1.3]
+link:modules/ROOT/assets/attachments/LICENSE[GNU Free Documentation License 1.3]
 
 // awesome-netbox/README.adoc
