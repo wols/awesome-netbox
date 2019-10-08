@@ -1,0 +1,16 @@
+// == NetBox
+
+[quote]
+____
+NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+
+link:https://github.com/netbox-community/netbox[]
+____
+
+
+
+// ...
+
+
+
+// awesome-netbox/modules/ROOT/partials/netbox.adoc
