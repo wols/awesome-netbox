@@ -2,6 +2,7 @@
 :autor: 	    WOLfgang Schricker
 :email:		    time@wols.org
 :experimental:
+:lang:          en
 // NO empty line before!
 
 == The fictional reality
@@ -12,7 +13,7 @@
 
 
 [cols="20,40,20", option="headers"]
-.Power Provider EVU
+.Power Provider EVU (german Energieversorgungsunternehmen)
 |===
 | Site | Power | Fuse
 
@@ -30,7 +31,7 @@ a|
 ** Power Panel `0001`
 *** Power Feed `F0.5`
 **** `PDU EVU1`
-***** Outlet `1..8`
+***** Outlet `EVU1.1..8`
 ** Power Panel `0002`
 
 a|
