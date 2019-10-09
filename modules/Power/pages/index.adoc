@@ -1,6 +1,6 @@
 = Power
-:autor: 	WOLfgang Schricker
-:email:		time@wols.org
+:autor: 	    WOLfgang Schricker
+:email:		    time@wols.org
 :experimental:
 // NO empty line before!
 
@@ -12,7 +12,40 @@
 
 
 
+.Power Provider EVU
+|===
+| Site | Power | Fuse
+
+a|
+* Building `0001`
+* Room `0001`
+* Row `0001`
+** Rack `0001`
+** Rack `0002`
+
+a|
+* Building `0001`
+* Room `0001`
+* Row `0001`
+** Power Panel `0001`
+*** Power Feed `F0.5`
+** Power Panel `0002`
+
+a|
+* `F0.1`
+* `F0.2`
+* `F0.3`
+** `F0.4`
+*** `F0.5`
+** `F0.6`
+|===
+
+.link:_images/circuit_diagram.png[Circuit Diagram, window=_blank]
+image::circuit_diagram.png[Circuit Diagram]
+
 == The implementation
+
+TIP: Comes this week...
 
 
 
