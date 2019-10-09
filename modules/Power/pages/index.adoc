@@ -29,6 +29,8 @@ a|
 * Row `0001`
 ** Power Panel `0001`
 *** Power Feed `F0.5`
+**** `PDU EVU1`
+***** Outlet `1..8`
 ** Power Panel `0002`
 
 a|
