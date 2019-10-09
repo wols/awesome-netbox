@@ -1,9 +1,13 @@
 = README
-:autor:          WOLfgang Schricker
-:email:          time@wols.org
+:autor:	WOLfgang Schricker
+:email:	time@wols.org
 // NO empty line before!
 
 include::partial$netbox.adoc[leveloffset=0]
+
+== Contents
+
+* xref:Power:index.adoc[Power]
 
 == License
 

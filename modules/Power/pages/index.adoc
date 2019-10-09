@@ -1,7 +1,23 @@
 = Power
-:autor: WOLfgang Schricker
-:email: time@wols.org
+:autor: 	WOLfgang Schricker
+:email:		time@wols.org
+:experimental:
+// NO empty line before!
 
-// TODO
+== The fictional reality
+
+
+
+// ...
+
+
+
+== The implementation
+
+
+
+// ...
+
+
 
 // awesome-netbox/modules/Power/index.adoc

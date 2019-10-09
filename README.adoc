@@ -3,11 +3,7 @@
 :email: time@wols.org
 // NO empty line before!
 
-
-
-link:docs/[Awesome NetBox : GitHub Pages]
-
-
+link:https://wols.github.io/awesome-netbox/[Awesome NetBox : GitHub Pages]
 
 == License
 

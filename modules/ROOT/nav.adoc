@@ -1,1 +1,13 @@
+// Sites
+// Racks
+// Devices
+// IP Addresses
+// Virtual Machines
+// Circuits
 * xref:Power:index.adoc[Power]
+// Secrets
+
+// .Data Center
+// Sites
+// Racks
+// Power
