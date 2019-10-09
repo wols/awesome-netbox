@@ -1,6 +1,7 @@
 = Awesome NetBox
 :autor: WOLfgang Schricker
 :email: time@wols.org
+:lang:  en
 // NO empty line before!
 
 link:https://wols.github.io/awesome-netbox/[Awesome NetBox : GitHub Pages]

@@ -1,6 +1,7 @@
 = README
 :autor:	WOLfgang Schricker
 :email:	time@wols.org
+:lang:  en
 // NO empty line before!
 
 include::partial$netbox.adoc[leveloffset=0]
