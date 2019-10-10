@@ -1,8 +1,11 @@
 = Power
-:autor: 	    WOLfgang Schricker
-:email:		    time@wols.org
+:autor: 	      WOLfgang Schricker
+:email:		      time@wols.org
 :experimental:
 :lang:          en
+:netbox-rel:    2.6.5
+:netbox-url:    https://github.com/netbox-community/netbox/releases/tag/v{netbox-rel}
+:netbox-badge:  https://img.shields.io/badge/netbox-v{netbox-rel}-blue
 // NO empty line before!
 
 ifdef::env-github[]
@@ -52,6 +55,10 @@ a|
 image::circuit_diagram.png[Circuit Diagram]
 
 == The implementation
+
+image:{netbox-badge}[{netbox-rel}, link={netbox-url}]
+
+
 
 TIP: Comes this week...
 
