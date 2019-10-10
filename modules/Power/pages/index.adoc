@@ -13,7 +13,7 @@ ifndef::env-github[]
 == Contents
 
 xref:first_power-feed.adoc[Power Feed]::
-    Add first menu:NetBox[Power > Power Panel] and menu:NetBox[Power > Power Feed] to a menu:NetBox[Racks]. +
+    Add first menu:NetBox[Power > Power Panel] and menu:NetBox[Power > Power Feed] to a btn:[Rack]. +
     Place a PDU and connect to the btn:[Power Feed].
 
 endif::[]
