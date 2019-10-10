@@ -5,10 +5,10 @@
 :antora-rel:  2.1.1
 // NO empty line before!
 
-image:https://img.shields.io/badge/license-FDL%20v1.3-blue.svg[license, link="LICENSE"]
-image:https://img.shields.io/github/tag/wols/awesome-netbox.svg[tag, link="https://github.com/wols/awesome-netbox/tags"]
-image:https://img.shields.io/github/issues/wols/awesome-netbox.svg[issues, link="https://github.com/wols/awesome-netbox/issues"]
-image:https://img.shields.io/github/stars/wols/awesome-netbox.svg?style=social&label=Star[star, link="https://github.com/wols/awesome-netbox/stargazers"]
+image:https://img.shields.io/badge/license-FDL%20v1.3-blue.svg[license, link=modules/ROOT/attachments/LICENSE.txt]
+image:https://img.shields.io/github/tag/wols/awesome-netbox.svg[tag, link=https://github.com/wols/awesome-netbox/tags]
+image:https://img.shields.io/github/issues/wols/awesome-netbox.svg[issues, link=https://github.com/wols/awesome-netbox/issues]
+image:https://img.shields.io/github/stars/wols/awesome-netbox.svg?style=social&label=Star[star, link=https://github.com/wols/awesome-netbox/stargazers]
 
 '''
 
@@ -34,7 +34,7 @@ link:https://wols.github.io/awesome-netbox/[*Awesome NetBox*] should be *a colle
 
 === Awesome NetBox is a Antora documentation component
 
-image:https://img.shields.io/badge/%40antora%2Fcli-%5E{antora-rel}-blue[@antora/cli, link="https://www.npmjs.com/package/@antora/cli"]
+image:https://img.shields.io/badge/%40antora%2Fcli-%5E{antora-rel}-blue[@antora/cli, link=https://www.npmjs.com/package/@antora/cli, window=_blank]
 
 [quote]
 .Antora
