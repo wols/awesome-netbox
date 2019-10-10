@@ -5,6 +5,11 @@
 :lang:          en
 // NO empty line before!
 
+ifdef::env-github[]
+link:https://wols.github.io/awesome-netbox/netbox/Power/index.html[]
+endif::[]
+ifndef::env-github[]
+
 == The fictional reality
 
 
@@ -55,5 +60,7 @@ TIP: Comes this week...
 // ...
 
 
+
+endif::[]
 
 // awesome-netbox/modules/Power/index.adoc
