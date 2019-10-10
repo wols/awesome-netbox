@@ -1,7 +1,8 @@
 = Awesome NetBox
-:autor: WOLfgang Schricker
-:email: time@wols.org
-:lang:  en
+:autor:       WOLfgang Schricker
+:email:       time@wols.org
+:lang:        en
+:antora-rel:  2.1.1
 // NO empty line before!
 
 image:https://img.shields.io/badge/license-FDL%20v1.3-blue.svg[license, link="LICENSE"]
@@ -33,12 +34,15 @@ link:https://wols.github.io/awesome-netbox/[*Awesome NetBox*] should be *a colle
 
 === Awesome NetBox is a Antora documentation component
 
+image:https://img.shields.io/badge/%40antora%2Fcli-%5E{antora-rel}-blue[@antora/cli, link="https://www.npmjs.com/package/@antora/cli"]
+
 [quote]
 .Antora
 ____
 A [Antora] documentation component typically represents the documentation for a product, application, project, microservice, or training course.
 
 link:https://antora.org/[The multi-repository documentation site generator for tech writers who writing in AsciiDoc., window=_blank]
+
 ____
 
 == License
