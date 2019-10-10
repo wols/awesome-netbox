@@ -5,6 +5,7 @@
 // Virtual Machines
 // Circuits
 * xref:Power:index.adoc[Power]
+** xref:Power:first_power-feed.adoc[Power Feed]
 // Secrets
 
 // .Data Center

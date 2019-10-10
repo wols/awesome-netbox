@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wols.github.io/awesome-netbox/netbox/Env/index.html</loc>
-<lastmod>2019-10-10T17:26:09.772Z</lastmod>
+<lastmod>2019-10-10T18:06:19.796Z</lastmod>
 </url>
 <url>
 <loc>https://wols.github.io/awesome-netbox/netbox/index.html</loc>
-<lastmod>2019-10-10T17:26:09.772Z</lastmod>
+<lastmod>2019-10-10T18:06:19.796Z</lastmod>
+</url>
+<url>
+<loc>https://wols.github.io/awesome-netbox/netbox/Power/first_power-feed.html</loc>
+<lastmod>2019-10-10T18:06:19.796Z</lastmod>
 </url>
 <url>
 <loc>https://wols.github.io/awesome-netbox/netbox/Power/index.html</loc>
-<lastmod>2019-10-10T17:26:09.772Z</lastmod>
+<lastmod>2019-10-10T18:06:19.796Z</lastmod>
 </url>
 </urlset>

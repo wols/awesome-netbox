@@ -1,0 +1,79 @@
+= Power Feed
+:autor: 	    WOLfgang Schricker
+:email:		    time@wols.org
+:experimental:
+:lang:          en
+:netbox-rel:    2.6.5
+:netbox-url:    https://github.com/netbox-community/netbox/releases/tag/v{netbox-rel}
+:netbox-badge:  https://img.shields.io/badge/netbox-v{netbox-rel}-blue
+// NO empty line before!
+
+ifdef::env-github[]
+link:https://wols.github.io/awesome-netbox/netbox/Power/first_power-feed.html[]
+endif::[]
+ifndef::env-github[]
+
+== The fictional reality
+
+
+
+// ...
+
+.link:_images/figure/001-001-001-001.svg[Rack 001-001-001-001, window=_blank]
+image::figure/001-001-001-001.svg[Rack 001-001-001-001]
+
+// ...
+
+
+
+[cols="20,40,20", option="headers"]
+.Power Provider EVU (in German: Energieversorgungsunternehmen)
+|===
+| Site | Power | Fuse
+
+a|
+* Building `0001`
+* Room `0001`
+* Row `0001`
+** Rack `0001`
+** Rack `0002`
+
+a|
+* Building `0001`
+* Room `0001`
+* Row `0001`
+** Power Panel `0001`
+*** Power Feed `F0.5`
+**** `PDU EVU1`
+***** Outlet `EVU1.1..8`
+** Power Panel `0002`
+
+a|
+* `F0.1`
+* `F0.2`
+* `F0.3`
+** `F0.4`
+*** `F0.5`
+** `F0.6`
+|===
+
+.link:_images/circuit_diagram.png[Circuit Diagram, window=_blank]
+image::circuit_diagram.png[Circuit Diagram]
+
+== The implementation
+
+image:{netbox-badge}[{netbox-rel}, link={netbox-url}, window=_blank]
+
+
+
+TIP: Comes this week...
+
+
+
+// ...
+
+
+
+endif::[]
+
+// awesome-netbox/modules/Power/first_power-feed.adoc
