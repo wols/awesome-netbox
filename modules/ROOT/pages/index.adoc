@@ -4,6 +4,11 @@
 :lang:  en
 // NO empty line before!
 
+ifdef::env-github[]
+link:https://wols.github.io/awesome-netbox/netbox/index.html[]
+endif::[]
+ifndef::env-github[]
+
 include::partial$netbox.adoc[leveloffset=0]
 
 == Contents
@@ -13,5 +18,7 @@ include::partial$netbox.adoc[leveloffset=0]
 == License
 
 link:{attachmentsdir}/LICENSE.txt[GNU Free Documentation License 1.3]
+
+endif::[]
 
 // awesome-netbox/modules/ROOT/pages/index.adoc
