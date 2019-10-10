@@ -31,6 +31,16 @@ link:https://wols.github.io/awesome-netbox/[*Awesome NetBox*] should be *a colle
 
 ...an ideal supplement to the link:https://netbox.readthedocs.io/[NetBox documentation, window=_blank].
 
+=== Awesome NetBox is a Antora documentation component
+
+[quote]
+.Antora
+____
+A [Antora] documentation component typically represents the documentation for a product, application, project, microservice, or training course.
+
+link:https://antora.org/[The multi-repository documentation site generator for tech writers who writing in AsciiDoc., window=_blank]
+____
+
 == License
 
 link:modules/ROOT/attachments/LICENSE.txt[GNU Free Documentation License 1.3]
