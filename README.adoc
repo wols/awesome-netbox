@@ -11,7 +11,23 @@ image:https://img.shields.io/github/stars/wols/awesome-netbox.svg?style=social&l
 
 '''
 
-link:https://wols.github.io/awesome-netbox/[Awesome NetBox : GitHub Pages]
+== NetBox
+
+[quote]
+____
+NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+
+link:https://github.com/netbox-community/netbox[, window=_blank]
+____
+
+== Awesome NetBox
+
+[quote]
+____
+NetBox is and can be much, much more!
+____
+
+link:https://wols.github.io/awesome-netbox/[*Awesome NetBox*] should be a collection of HOWTO and ideas for the use of NetBox.
 
 == License
 
