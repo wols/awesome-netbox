@@ -27,7 +27,9 @@ ____
 NetBox is and can be much, much more!
 ____
 
-link:https://wols.github.io/awesome-netbox/[Awesome NetBox] should be a collection of vivid HOWTO and ideas for the use of NetBox - an ideal supplement to the link:https://netbox.readthedocs.io/[NetBox documentation, window=_blank].
+link:https://wols.github.io/awesome-netbox/[*Awesome NetBox*] should be a collection of vivid HOWTO and ideas for the use of NetBox...
+
+...an ideal supplement to the link:https://netbox.readthedocs.io/[NetBox documentation, window=_blank].
 
 == License
 
